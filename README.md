@@ -1,2 +1,2 @@
-# JimmyKarebe.github.io
+# Jimmy-Kay.github.io
 Personal portfolio
